@@ -1,0 +1,9 @@
+opencv-python-headless
+numpy
+Pillow
+tqdm
+ultralytics
+streamlit
+pandas
+psutil
+# PyTorch will be installed separately using the command below
